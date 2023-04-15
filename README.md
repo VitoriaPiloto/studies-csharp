@@ -6,7 +6,7 @@
 
 
 <h4>
-Repositório para guardar meu avanço na linguagem c#, através das aulas ministradas pelos professores Cristiano Rodrigues e Thaise Medeiros através do projeto c# jumpstart.
+Repositório para guardar meu avanço na linguagem c#. Estudos através das aulas ministradas pelos professores Cristiano Rodrigues e Thaise Medeiros pelo projeto c# Jumpstart, que é gratuito.
 </h4>
 
 ## 1. Aula 1 - 25/03/2023
