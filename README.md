@@ -33,3 +33,12 @@ Repositório para guardar meu avanço na linguagem c#. Estudos através das aula
       - Getters e setters 
       - Encapsulamento
       
+## Aula 4 - 21/04/2023
+
+  - Consolidação dos pilares de OO
+
+      - Criação de classes
+      - Getters e setters 
+      - Encapsulamento
+      - Herança 
+      - Polimorfismo
