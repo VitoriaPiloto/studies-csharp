@@ -33,7 +33,7 @@ Repositório para guardar meu avanço na linguagem c#. Estudos através das aula
       - Getters e setters 
       - Encapsulamento
       
-## Aula 4 - 21/04/2023
+## 4. Aula 4 - 21/04/2023
 
   - Consolidação dos pilares de OO
 
@@ -42,3 +42,19 @@ Repositório para guardar meu avanço na linguagem c#. Estudos através das aula
       - Encapsulamento
       - Herança 
       - Polimorfismo
+
+## 5. Aula 5 - 28/04/2023
+
+  - Arrays
+  - Collections
+  - Sobrescrita (Override)
+  - Sobrecarga
+  - Uso do base
+  - Ponteiros (uso do ref)
+    - Passagem por valor ou por referência  
+
+## 6. Aula 6 - 13/05/2023
+
+  - Revisão dos conceitos anteriores
+  - Aprofundamento de perfomace em collections e arrays 
+  - Implementação de interface
