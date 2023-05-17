@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ryJ7Lx5h2wc0Rl6lUWpCQTTGpCvzRNfeOpeoXvW3xTtVtlhyA2TvbSAPnTcN8L9Chsaagc5y7XsACE72jVArjQ==",
+  "success": true,
+  "projectFilePath": "C:\\estudos\\App1\\App1\\App1\\App1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmendes\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vmendes\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\vmendes\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\vmendes\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\vmendes\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://repositorio/pacotes/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
