@@ -1,0 +1,15 @@
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\bin\Debug\netstandard2.0\EstudoListView.deps.json
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\bin\Debug\netstandard2.0\EstudoListView.dll
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\bin\Debug\netstandard2.0\EstudoListView.pdb
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\obj\Debug\netstandard2.0\EstudoListView.csproj.AssemblyReference.cache
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\obj\Debug\netstandard2.0\EstudoListView.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\obj\Debug\netstandard2.0\EstudoListView.AssemblyInfoInputs.cache
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\obj\Debug\netstandard2.0\EstudoListView.AssemblyInfo.cs
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\obj\Debug\netstandard2.0\EstudoListView.csproj.CoreCompileInputs.cache
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\obj\Debug\netstandard2.0\EstudoListView.dll
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\obj\Debug\netstandard2.0\refint\EstudoListView.dll
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\obj\Debug\netstandard2.0\EstudoListView.pdb
+C:\estudos\EstudoListView\EstudoListView\EstudoListView\obj\Debug\netstandard2.0\ref\EstudoListView.dll
