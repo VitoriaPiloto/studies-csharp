@@ -1,0 +1,17 @@
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\bin\Debug\netstandard2.0\EstudoEntrys.deps.json
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\bin\Debug\netstandard2.0\EstudoEntrys.dll
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\bin\Debug\netstandard2.0\EstudoEntrys.pdb
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\obj\Debug\netstandard2.0\EstudoEntrys.csproj.AssemblyReference.cache
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\obj\Debug\netstandard2.0\EstudoEntrys.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\obj\Debug\netstandard2.0\BindingSample.xaml.g.cs
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\obj\Debug\netstandard2.0\EstudoEntrys.AssemblyInfoInputs.cache
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\obj\Debug\netstandard2.0\EstudoEntrys.AssemblyInfo.cs
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\obj\Debug\netstandard2.0\EstudoEntrys.csproj.CoreCompileInputs.cache
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\obj\Debug\netstandard2.0\XamlC.stamp
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\obj\Debug\netstandard2.0\EstudoEntrys.dll
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\obj\Debug\netstandard2.0\refint\EstudoEntrys.dll
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\obj\Debug\netstandard2.0\EstudoEntrys.pdb
+C:\estudos\EstudoEntrys\EstudoEntrys\EstudoEntrys\obj\Debug\netstandard2.0\ref\EstudoEntrys.dll

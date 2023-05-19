@@ -13,22 +13,27 @@ namespace EstudoEntrys
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Page2 : ContentPage
     {
-        private string myStringProperty;
-        public string MyStringProperty
-        {
-            get { return myStringProperty; }
-            set
-            {
-                myStringProperty = value;
-                OnPropertyChanged(nameof(MyStringProperty)); // Notify that there was a change on this property
-            }
-        }
-        public Page2()
+        private Usuario user;
+
+        public Page2(Usuario user)
         {
             InitializeComponent();
-            BindingContext = this;
 
-            MyStringProperty = usu.nome;
+            this.user = user;
+            LoadContent();
+        }
+
+        private void LoadContent()
+        {
+            name.Text = user.Name;
+            lastName.Text = user.LastName;
+            telephone.Text = user.Telephone;
+            email.Text = user.Email;
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new BindingSample(user));
         }
     }
 }

@@ -5,7 +5,12 @@
              >
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="{Binding MyStringProperty}"/>
+            <Label x:Name="name"/>
+            <Label x:Name="lastName"/>
+            <Label x:Name="telephone"/>
+            <Label x:Name="email"/>
+            <Label x:Name="address"/>
+            <Button Text="Binding Sample" HorizontalOptions="Center" VerticalOptions="End"  Clicked="Button_Clicked"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

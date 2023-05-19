@@ -11,10 +11,7 @@
                 <Label
                     HorizontalOptions="Center"
                     TextColor="White"
-                    FontSize="30"
-                >
-                    Cadastro
-                </Label>
+                    FontSize="30" Text="Cadastro"/>
             </StackLayout>
         </Frame>
         <Frame 
@@ -24,37 +21,34 @@
             Padding="50">
             <StackLayout>
                 <Entry 
-                    x:Name="Nome"
+                    x:Name="name"
                     Placeholder="Nome"
                     PlaceholderColor="Black"
-                    FontSize="24"
-            />
+                    FontSize="24"/>
                 <Entry 
-                    x:Name="ultimoNome"
+                    x:Name="lastName"
                     BindingContext="nome"
                     Placeholder="Último nome"
                     PlaceholderColor="Black"  
-                    FontSize="24"
-            />
+                    FontSize="24"/>
                 <Entry 
-                    x:Name="telefone"
+                    x:Name="telephone"
                     Placeholder="Telefone"
                     PlaceholderColor="Black"
                     Keyboard="Numeric"
-                    FontSize="24"
-            />
+                    FontSize="24"/>
                 <Entry
                    x:Name="email"
                    Placeholder="Email"
+                   Keyboard="Email"
+                   TextChanged="email_TextChanged"
                    PlaceholderColor="Black"
-                   FontSize="24"
-            />
+                   FontSize="24"/>
                 <Entry
-                    x:Name="endereco"
+                    x:Name="address"
                     Placeholder="Endereço"
                     PlaceholderColor="Black"
-                    FontSize="24"
-            />
+                    FontSize="24"/>
             </StackLayout>
         </Frame>
         <Button

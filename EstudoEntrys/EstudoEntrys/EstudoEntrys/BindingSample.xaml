@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EstudoEntrys.BindingSample">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout>
+                <Label x:Name="name" Text="{Binding Name}"/>
+                <Label x:Name="lastName" Text="{Binding LastName}"/>
+                <Label x:Name="telephone" Text="{Binding Telephone}"/>
+                <Label x:Name="email" Text="{Binding Email}" TextColor="{Binding ColorText}" />
+                <Label x:Name="address" Text="{Binding Address}" />
+              
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

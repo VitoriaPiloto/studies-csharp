@@ -6,11 +6,11 @@ namespace EstudoEntrys
 {
     public class Usuario
     {
-        public string nome { get; set; }
-
-        public Usuario(string n)
-        {
-            nome = n;
-        }
+        public string Name { get; set; }
+        public string LastName { get; set; }
+        public string Telephone { get; set; }
+        public string Email { get; set; }
+        public string Address { get; set; }
+        public string ColorText { get; set; }
     }
 }
