@@ -12,6 +12,7 @@ namespace EstudoListView.ViewModel
 {
     public class GatosViewModel : INotifyPropertyChanged
     {
+        int cont =0;
 
         public ObservableCollection<Gatos> Gatinhos { get; private set; }
 
@@ -32,10 +33,9 @@ namespace EstudoListView.ViewModel
 
         private void SelectedGato(Gatos obj)
         {
-            
-            Console.WriteLine(obj.Name);
+            cont++;
+            Console.WriteLine(cont);
         }
-
 
         //Construtor
         public GatosViewModel()
@@ -83,7 +83,7 @@ namespace EstudoListView.ViewModel
             {
                 Name = "Golden Lion Tamarin",
                 Location = "Brazil",
-                Details = "The golden lion tamarin also known as the golden marmoset, is a small New World monkey of the family Callitrichidae.",
+                Details = "The golden lion",
                 ImageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Golden_lion_tamarin_portrait3.jpg/220px-Golden_lion_tamarin_portrait3.jpg"
             });
 
