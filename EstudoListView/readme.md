@@ -5,3 +5,5 @@
 <img src="https://learn.microsoft.com/pt-br/samples/xamarin/xamarin-forms-samples/userinterface-collectionviewdemos/media/01all.png" width="300"/>
 
 ## Resultado final:
+
+<img src="./Screenshot_1684541148.png" width="200"/>
